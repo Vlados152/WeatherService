@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+*.dbmdl
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
