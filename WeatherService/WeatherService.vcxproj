@@ -28,7 +28,6 @@
     <ClInclude Include="XmlService.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
     <ClCompile Include="pugixml.cpp" />
     <ClCompile Include="JsonService.cpp" />
     <ClCompile Include="main.cpp" />
