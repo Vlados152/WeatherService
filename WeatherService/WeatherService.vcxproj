@@ -26,6 +26,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="JsonService.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Weather.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
