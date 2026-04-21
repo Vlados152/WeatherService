@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="WeatherService/WeatherService.vcxproj" />
+  <Project Path="WeatherService/WeatherService.vcxproj" Id="793c2864-2aaa-4c3a-a888-d5ac14a76f7f" />
 </Solution>
